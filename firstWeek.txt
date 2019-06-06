@@ -1,0 +1,2 @@
+06/06/19
+After the first day this week was actually pretty fun and i learned alot about variables, data types, strings, algorithms, binary and linear searches,

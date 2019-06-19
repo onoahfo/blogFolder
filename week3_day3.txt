@@ -1,0 +1,4 @@
+yesterday learned about loops and functions
+
+
+learned about javascript classes and objects.
